@@ -1,6 +1,6 @@
 # Summary
 
-Hi, I'm a full stack developer, mainly focused on the frontend, with over 8 years of experience in Node.js, JavaScript, HTML, Python, and CSS.
+Hi, I'm a full stack developer, mainly focused on the frontend, with over 7 years of experience in Node.js, JavaScript, HTML, Python, and CSS.
 
 I've personally created projects from scratch spanning over 500K lines of code, and I've developed mobile and complex web apps from scratch in as little as a few months.
 
