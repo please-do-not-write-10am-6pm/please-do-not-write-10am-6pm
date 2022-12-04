@@ -32,15 +32,15 @@ If you're looking for serious automations, or add some major features to your ap
 Send an invite and let me assist with any full stack development needs!
 
 <p align="center">
-	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
+	<a href="https://github.com/thisisthelife0304">
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=thisisthelife0304" />
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
+	<a href="https://github.com/thisisthelife0304">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisthelife0304&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
-	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&show_icons=true&theme=dracula" />
+	<a href="https://github.com/thisisthelife0304">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisthelife0304&show_icons=true&theme=dracula" />
 	</a>
 </p>
