@@ -9,28 +9,49 @@ I am having experience in design, development, and customization. I write clean 
 So what are you looking for?
 
 Full-Stack Web Developer proficient in the following frameworks and languages:
+
 • JavaScript
+
 • TypeScript
+
 • Node.js
+
 • HTML
+
 • CSS
+
 • Solidity (Ethereum smart contract language)
+
 • Swift & objC (iOS dev)
+
 • React Native (mobile dev)
+
 • Twitter Bootstrap
+
 • jQuery
+
 • Python
+
 • React
+
 • Vue
 
 AWS Cloud Architect with a mastery of following cloud infrastructure services:
+
 • AWS Lambda
+
 • AWS API Gateway (& Lambda Proxy Integrations)
+
 • AWS RDS
+
 • AWS S3
+
 • AWS CloudFront
+
 • AWS IAM
+
 • AWS CloudWatch
+
 • AWS EventBridge
 
 If you're looking for serious automations, or add some major features to your app - look no further.
