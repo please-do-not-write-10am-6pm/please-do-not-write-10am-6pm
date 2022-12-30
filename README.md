@@ -9,7 +9,9 @@ I am having experience in design, development, and customization. I write clean 
 So what are you looking for?
 
 Full-Stack Web Developer proficient in the following frameworks and languages:
+
 • JavaScript
+
 • TypeScript
 
 • Node.js
