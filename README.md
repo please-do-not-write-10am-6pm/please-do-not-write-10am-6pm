@@ -9,9 +9,7 @@ I am having experience in design, development, and customization. I write clean 
 So what are you looking for?
 
 Full-Stack Web Developer proficient in the following frameworks and languages:
-
 • JavaScript
-
 • TypeScript
 
 • Node.js
@@ -37,7 +35,6 @@ Full-Stack Web Developer proficient in the following frameworks and languages:
 • Vue
 
 AWS Cloud Architect with a mastery of following cloud infrastructure services:
-
 • AWS Lambda
 
 • AWS API Gateway (& Lambda Proxy Integrations)
