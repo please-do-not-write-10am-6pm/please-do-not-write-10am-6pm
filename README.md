@@ -1,61 +1,32 @@
 # Summary
 
-I am a passionate, reliable Full Stack Engineer. I can develop a clean professional responsive web application.
+- 8+ years of web development: Front-End, Mobile and Back-End technologies
+- expert in Javascript, ES6, EmberJS, React.JS, React-Native, Expo, Ionic, Redux, Redux-Thunk, VueJS, Vuex, Pinja, HTML5, CSS3, jQuery, Canvas, MUI, TailwindCSS, Chakra UI, Ant Design.
+- have a great experience with NodeJS (Express.JS) and also work with MEAN stack and Laravel + Vue, Django + React.
+- always enhance knowledge in new cutting edge technologies
+- have knowledge of graphics and design
+- follow best practices and great team player
 
-For client-site Technologies, I would like to use ReactJS, NextJS, GraphQL, Vue, WordPress, Shopify and various JavaScript Frameworks and Libraries.
-For server-site Technologies, I have good command on NodeJS/ExpressJS, NestJS, Django and GraphQL also I have experience with some popular AWS services such as lambda/serverless, AppSync, Elastic Search, Cognito, EC2, RDS/AuroraDB, DynamoDB, AWS Amplify, etc.
+Programming languages:
+CSS, HTML, JavaScript, ES6, TypeScript, Python
 
-I am having experience in design, development, and customization. I write clean and readable code. I have a good command of Git.
-So what are you looking for?
+Front-end:
+ReactJS, React-Native, Expo, Ionic, Redux, Redux-thunk, Redux-Saga, Next, EmberJS, Webpack, VueJS, Vuex, Pinja, HTML (LocalStorage, SessionStorage, HTML5 API), CSS (LESS, Twitter Bootstrap, MUI, TailwindCSS, Chakra UI)
 
-Full-Stack Web Developer proficient in the following frameworks and languages:
+Back-end:
+Node.JS (ExpressJS, Laravel, Django), MongoDB, MySQL, PostgreSQL
 
-• JavaScript
+APIs:
+Google APIs, Dropbox Core API, MailChimp, REST APIs of various online services
 
-• TypeScript
+Operating Systems:
+Linux (Arch Linux, CentOS, Ubuntu), Mac OS
 
-• Node.js
+Tools:
+Jira, Trello, Confluence, Docker, Jenkins, Git, Bitbucket
 
-• HTML
-
-• CSS
-
-• Solidity (Ethereum smart contract language)
-
-• Swift & objC (iOS dev)
-
-• React Native (mobile dev)
-
-• Twitter Bootstrap
-
-• jQuery
-
-• Python
-
-• React
-
-• Vue
-
-AWS Cloud Architect with a mastery of following cloud infrastructure services:
-• AWS Lambda
-
-• AWS API Gateway (& Lambda Proxy Integrations)
-
-• AWS RDS
-
-• AWS S3
-
-• AWS CloudFront
-
-• AWS IAM
-
-• AWS CloudWatch
-
-• AWS EventBridge
-
-If you're looking for serious automations, or add some major features to your app - look no further.
-
-Send an invite and let me assist with any full stack development needs!
+PM Processes:
+Agile, Scrum
 
 <p align="center">
 	<a href="https://github.com/morepassionate">
